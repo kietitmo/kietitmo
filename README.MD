@@ -21,12 +21,15 @@
 
 ### 🛠️ Tech Stack
 
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud Platform" />
-    <img src="https://skillicons.dev/icons?i=express,nestjs" alt="Express & NestJS" />
-    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white" atl="Springboot" />
-    <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white" alt="Airflow" />
+<p align="center">
     <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white" alt="Spark" />
+    <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" alt="airflow">
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gcp,docker,terraform,express,java,js,nestjs,spring,postman,postgres,scala,python,git" />
+  </a>
 </p>
 
 ---
