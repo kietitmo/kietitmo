@@ -12,7 +12,7 @@
 ### 🧑‍💻 About Me
 
 - 🔭 I’m currently working on **high-performance backend & data platforms**
-- 🌱 I’m learning and scaling with **GCP | Airflow | Spark | NestJS**
+- 🌱 I’m learning and scaling with **GCP | Airflow | Spark | Java Springboot | ExpressJs | NestJS**
 - 💬 Ask me about **backend architecture, ETL pipelines, cloud engineering**
 - 📫 Reach me via: **[kietitmo@gmail.com]** or **[[LinkedIn profile](https://www.linkedin.com/in/tuan-kiet-nguyen-053685320/)]**
 - ⚡ Fun fact: *I automate things even when it's faster to do manually — for the fun of it!*
@@ -24,6 +24,7 @@
 <p align="left">
     <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud Platform" />
     <img src="https://skillicons.dev/icons?i=express,nestjs" alt="Express & NestJS" />
+    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white" atl="Springboot" />
     <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white" alt="Airflow" />
     <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white" alt="Spark" />
 </p>
